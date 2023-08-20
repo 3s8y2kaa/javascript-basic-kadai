@@ -4,7 +4,8 @@
 
 */
 
-let height = '1.7';
-let weight = '68'
+let userHeight = 1.7;
+let userWeight = 68;
+let userBmi = userWeight / userHeight **2;
 
-console.log(weight / height ** 2);
+console.log(userBmi);
