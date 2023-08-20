@@ -4,7 +4,7 @@
 
 */
 
-const height = '1.7';
-const weight = '68'
+let height = '1.7';
+let weight = '68'
 
 console.log(weight / height ** 2);
